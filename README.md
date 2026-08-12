@@ -1,4 +1,4 @@
-# Nubra TradeGuard — Product Case Study
+# Nubra TradeGuard : Product Case Study
 
 ## Product Problem
 
