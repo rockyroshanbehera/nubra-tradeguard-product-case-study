@@ -125,7 +125,20 @@ The interactive prototype covers:
 
 (https://www.figma.com/design/hQfdWEisGAGQEn7bMBAsgW/Nubra-TradeGuard-%E2%80%94-Execution-Clarity?node-id=1-7&t=pmM364nWC3dwibay-1&utm_source=chatgpt.com)
 
----
+
+### Prototype Screens
+
+#### 1. Pre-Trade Review
+![Trade Review](assets/prototype-screens/trade-review.png)
+
+#### 2. Execution Status
+![Execution Status](assets/prototype-screens/execution-status.png)
+
+#### 3. Unexpected State
+![Unexpected State](assets/prototype-screens/unexpected-state.png)
+
+#### 4. Recovery
+![Recovery](assets/prototype-screens/recovery.png)
 
 ## Case Study Structure
 
