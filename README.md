@@ -123,7 +123,7 @@ The interactive prototype covers:
 
 ### Figma Prototype
 
-Paste the Figma prototype link here.
+(https://www.figma.com/design/hQfdWEisGAGQEn7bMBAsgW/Nubra-TradeGuard-%E2%80%94-Execution-Clarity?node-id=1-7&t=pmM364nWC3dwibay-1&utm_source=chatgpt.com)
 
 ---
 
